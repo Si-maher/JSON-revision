@@ -3,6 +3,7 @@
       {
           "name":"Simon",
           "age":41
+          
       },
       {
           "name":"John",
@@ -10,6 +11,14 @@
       },
       {
           "name":"Nick",
+          "age":25
+      },
+      {
+          "name":"Sam",
+          "age":25
+      },
+      {
+          "name":"Bob",
           "age":25
       }
   ]
